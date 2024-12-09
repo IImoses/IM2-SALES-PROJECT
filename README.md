@@ -1,6 +1,6 @@
 # IM2 Sales Performance Dashboard
 
-This repository contains a data analysis project focused on sales performance, using **SQL** for data exploration and **Power BI** for data visualization. The project aims to showcase key insights into total revenue, sales by region, customer, product category, and shipping mode. The analysis explores the relationships between these elements to provide a comprehensive view of the business’s sales performance.
+This repository contains a data analysis project focused on sales performance, using **SQL Server** for data exploration and **Power BI** for data visualization. The project aims to showcase key insights into total revenue, sales by region, customer, product category, and shipping mode. The analysis explores the relationships between these elements to provide a comprehensive view of the business’s sales performance.
 
 ## Project Overview
 
@@ -27,7 +27,7 @@ The project analyzes sales data from an e-commerce company to identify trends, p
 
 ## Technologies Used
 
-- **SQL**: Used for data extraction, cleaning and basic exploratory analysis.
+- **SQL Server**: Used for data extraction, cleaning and basic exploratory analysis.
 - **Power BI**: Used for creating interactive dashboards and visualizations.
 
 ## Data Analysis Process
